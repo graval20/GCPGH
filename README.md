@@ -1,2 +1,1 @@
-# GCPGH
-Integration of GCP and GH
+This project shows continuous integration and continuous deployment demonstration with Github as code repository and GCP as hosting environment.
